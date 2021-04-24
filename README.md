@@ -34,7 +34,7 @@
 
 - Medium Data science Topics : https://medium.com/topic/data-science
 - Data Competions & projects  : https://www.kaggle.com/
-
+- MOOC : https://www.coursera.org/browse/data-science
 ## Deep Focus - Music For Studying, Concentration and Work :   
 
 ✔ https://www.youtube.com/channel/UC1dVfl5-I98WX3yCy8IJQMg  
