@@ -20,7 +20,7 @@
 - R
 - Sas
 - Matlab
-- SQL  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+- SQL 
 - Talend
 - Hadoop
 - Deep Learning
