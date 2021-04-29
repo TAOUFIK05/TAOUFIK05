@@ -12,7 +12,7 @@
 - 💬 Ask me about Data preprocessing.
 - 📫 How to reach me: toufikmrx@gmail.com.
 - 😁 Pronouns: Taoufik, toufik, Toto.
-- 💔: My hobbies : Data science, Kick boxing🤛🤛🤛.   
+- 💔: My hobbies : Data science 💻, Kick boxing🥊🥊.  
 
 ## Skills & Top Programming Languages :    
 
