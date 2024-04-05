@@ -6,44 +6,9 @@
 
 <!---🔍 Proven expertise in data science and machine learning with proficiency in R, Python, SAS, Scala, and more. 🚀 Skilled in developing and deploying ML models using TensorFlow, Spark, and other frameworks. 📈 Experienced in data analytics, MLOps, and NLP, with a focus on actionable insights. 💡 Committed to leveraging data-driven approaches to drive innovation and deliver impactful solutions.--->
 
-## Here are some informations about me:   
 
-- 🔭 I’m currently working as data scientist Freelancer
-- 🌱 I’m currently learning new alternative of deep learning📜📜.
-- 👯 I’m looking to collaborate on Artificial Intelligence project
-- 🤔 I’m looking for help with Cryptocurrency Trading algorithms💸💸💸💸.
-- 💬 Ask me about Data preprocessing.
-- 📫 How to reach me: toufikmrx@gmail.com.
-- 😁 Pronouns: Taoufik, toufik, Toto.
-- 💔: My hobbies : Data science 💻, Kick boxing🥊🥊.  
 
-<!--## Skills & Top Programming Languages :    
-
-- Python 
-- R
-- Sas
-- Matlab
-- SQL 
-- Talend
-- Hadoop
-- Deep Learning
-- Machine learning
-- Artificial intelligence
-- Data management
-- Microsoft Office
-- Having awesome ideas
- 
-##  Interesting data science websites 📃📃:   
-
-- Medium Data science Topics : https://medium.com/topic/data-science
-- Data Competions & projects  : https://www.kaggle.com/
-- MOOC : https://www.coursera.org/browse/data-science
-## Deep Focus - Music For Studying, Concentration and Work :   
-
-✔ https://www.youtube.com/channel/UC1dVfl5-I98WX3yCy8IJQMg  
-✔ https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q&nd=1 -->
-
-## Tools and Platforms
+## Skills & Programming Languages :   
 
 <p align="center">
 
@@ -104,26 +69,18 @@
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="40">
   </a>
-
-
   <a href="https://www.tableau.com" target="_blank">
     <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" height="40">
   </a>
-
-
   <a href="https://www.qlik.com" target="_blank">
     <img src="https://img.shields.io/badge/-Qlik-0070C0?style=flat&logo=qlik&logoColor=green" alt="Qlik" height="40">
   </a>
-
-
   <a href="https://www.latex-project.org" target="_blank">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="40">
   </a>
-
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
   </a>
-
 
   <a href="https://www.scala-lang.org" target="_blank">
     <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" height="40">
