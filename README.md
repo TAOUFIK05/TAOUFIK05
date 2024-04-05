@@ -4,12 +4,6 @@
 
 👨‍💻 Experienced Data Scientist with expertise in machine learning algorithms and data analytics. Proficient in R, Python, SAS, Scala, and more. 🚀 Passionate about leveraging technology to solve complex problems and drive actionable insights. 💡 Strong background in MLOps, NLP, and visualization tools like Tableau and Qlik.
 
-<!---👨‍💼 Data enthusiast with a solid track record in data science and machine learning. Proficient in R, Python, SAS, Scala, and more. 🛠️ Skilled in utilizing ML frameworks like TensorFlow and Spark for predictive modeling. 📊 Strong background in data analytics, MLOps, and NLP. 💡 Passionate about leveraging data to drive innovation and make informed decisions.--->
-
-<!---🔍 Proven expertise in data science and machine learning with proficiency in R, Python, SAS, Scala, and more. 🚀 Skilled in developing and deploying ML models using TensorFlow, Spark, and other frameworks. 📈 Experienced in data analytics, MLOps, and NLP, with a focus on actionable insights. 💡 Committed to leveraging data-driven approaches to drive innovation and deliver impactful solutions.--->
-
-
-
 ## Skills & Programming Languages :   
 
 <p align="center">
