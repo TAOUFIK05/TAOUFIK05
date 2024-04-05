@@ -64,7 +64,13 @@
   <a href="https://spark.apache.org" target="_blank">
     <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark" height="40">
   </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
+  </a>
 
+  <a href="https://www.scala-lang.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" height="40">
+  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="40">
   </a>
@@ -77,13 +83,7 @@
   <a href="https://www.latex-project.org" target="_blank">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="40">
   </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
-  </a>
 
-  <a href="https://www.scala-lang.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" height="40">
-  </a>
 
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank">
     <img src="https://img.shields.io/badge/-VBA-007ACC?style=flat&logo=microsoft-excel&logoColor=white" alt="VBA" height="40">
