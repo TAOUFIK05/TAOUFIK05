@@ -94,8 +94,21 @@
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank">
     <img src="https://img.shields.io/badge/-VBA-007ACC?style=flat&logo=microsoft-excel&logoColor=white" alt="VBA" height="40">
   </a>
+
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="40">
-  </a>
+    <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="40">
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Word" height="40">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" height="40">
+</a>
+<a href="https://www.canva.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" height="40">
+</a>
+
+
 </p> 
 
