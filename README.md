@@ -83,12 +83,6 @@
   <a href="https://www.latex-project.org" target="_blank">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="40">
   </a>
-
-
-
-<a href="https://www.canva.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" height="40">
-</a>
 <a href="https://www.microsoft.com/microsoft-365" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="40">
 </a>
