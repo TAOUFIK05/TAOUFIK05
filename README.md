@@ -33,6 +33,26 @@
   <a href="https://keras.io" target="_blank">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="40">
   </a>
+  
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" height="40">
+  </a>
+  <a href="https://www.talend.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Talend-1670BE?style=flat&logo=talend&logoColor=white" alt="Talend" height="40">
+  </a>
+ <a href="https://hadoop.apache.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Hadoop-FF7F0E?style=flat&logo=apache&logoColor=white" alt="Hadoop" height="40">
+  </a>
+
+  <a href="https://spark.apache.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark" height="40">
+  </a>
+    <a href="https://www.scala-lang.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" height="40">
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
+  </a>
 <a href="https://numpy.org" target="_blank">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="40">
 </a>
@@ -51,26 +71,6 @@
     <img src="https://img.shields.io/badge/-Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" height="40">
   </a>
 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" height="40">
-  </a>
-  <a href="https://www.talend.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Talend-1670BE?style=flat&logo=talend&logoColor=white" alt="Talend" height="40">
-  </a>
- <a href="https://hadoop.apache.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Hadoop-FF7F0E?style=flat&logo=apache&logoColor=white" alt="Hadoop" height="40">
-  </a>
-
-  <a href="https://spark.apache.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark" height="40">
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
-  </a>
-
-  <a href="https://www.scala-lang.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" height="40">
-  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="40">
   </a>
